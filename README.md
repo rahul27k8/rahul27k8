@@ -46,6 +46,17 @@
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 </p>
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
+
+
 <!--
 **rahul27k8/rahul27k8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
