@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rahul Sharma</h1>
+<h3 align="center">Full Stack Developer</h3>
+<a href="https://www.linkedin.com/in/rahul27k8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 
 <!--
 **rahul27k8/rahul27k8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
