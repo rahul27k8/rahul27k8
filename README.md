@@ -23,8 +23,9 @@
 
 ***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ Pronouns: ***He/His***<br>
 ✔ I’m currently learning **ReactJS** & **NodeJS** & **.net**<br>
+
 ***Languages & Tools I Know...***
 <p align="left">
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
