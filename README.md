@@ -28,7 +28,7 @@
 
 ***Languages & Tools I Know...***
 <p align="left">
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </code>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"> </code>
