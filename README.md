@@ -60,7 +60,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 </p>
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul27k8&theme=gotham&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul27k8&layout=compact)](https://github.com/rahul27k8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul27k8&layout=compact&theme=gotham&show_icons=true)]
 <!--
 **rahul27k8/rahul27k8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
