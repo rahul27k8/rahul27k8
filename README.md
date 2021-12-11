@@ -59,7 +59,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg"></code>
 </p>
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul27k8)](https://github.com/rahul27k8/github-readme-stats)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul27k8&theme=gotham&show_icons=true)
 
 
 
