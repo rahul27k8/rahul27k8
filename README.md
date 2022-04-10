@@ -20,7 +20,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React, NodeJS.
+- 🔭 &nbsp; I’m currently learning React, NodeJS and .NET
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Full Stack Developer.
